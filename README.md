@@ -1,6 +1,11 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-<h2 align="center"> Web developer under construction 🚧. Almost engineer👷‍♂️. Veggie🥑. Sometimes photographer📸. Love cats🐱</h2>
+<h2 align="center"> Web developer under construction 🚧. Almost engineer👷‍♂️. Veggie🥑. Sometimes photographer📸. Love cats🐱</h2><br>
+
+<p align="center"> 
+<a href="https://linkedin.com/in/carlos-fernando-maciel-"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/fercuche"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
 
 
