@@ -9,6 +9,8 @@
 <a href = "mailto: fernandomaciel.job@gmail.com" target= "_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+[GMAIL](fernandomaciel.job@gmail.com){:target="_blank"}
+
 
 
 <!--
