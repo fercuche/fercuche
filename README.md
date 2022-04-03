@@ -9,7 +9,7 @@
 <a href = "mailto: fernandomaciel.job@gmail.com" target= "_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-[GMAIL](fernandomaciel.job@gmail.com){:target="_blank"}
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://linkedin.com/in/carlos-fernando-maciel-){target="_blank"}
 
 
 
