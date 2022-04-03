@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> Hi there 👋 I'm Fernando </h1>
 
 <h2 align="center"> Web developer under construction 🚧. Almost engineer👷‍♂️. Veggie🥑. Sometimes photographer📸. Love cats🐱</h2><br>
 
@@ -9,7 +9,6 @@
 <a href = "mailto: fernandomaciel.job@gmail.com" target= "_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://linkedin.com/in/carlos-fernando-maciel-){target="_blank"}
 
 
 
