@@ -5,9 +5,11 @@
 <p align="center"> 
 <a href="https://linkedin.com/in/carlos-fernando-maciel-" target= "_blank"><img alt="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
 <a href="https://instagram.com/fercuche" target= "_blank" rel="noreferrer noopener"><img alt="Instagram" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>
-<a href="https://twitter.com/Fercuche" target= "_blank"><img alt="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"></a>
+<a href="https://twitter.com/Fercuche" target= "_blank"><img alt="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="7%" height="7%"></a>
 <a href = "mailto: fernandomaciel.job@gmail.com" target= "_blank"><img alt="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
 </p>
+
+<!--
 
 <p align="center"> 
 <a href="https://linkedin.com/in/carlos-fernando-maciel-" target= "_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -19,7 +21,7 @@
 
 
 
-<!--
+
 **fercuche/fercuche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
